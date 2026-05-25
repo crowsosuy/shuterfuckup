@@ -1,3 +1,4 @@
+from math import
 def S(n):
     if n == 0:
         return 0

@@ -15,7 +15,7 @@ print(b, a, c)
  + - * k nói lmj
  / chia thập phân
  // chia lấy phần  nguyên
- % chia lấy phầndư
+ % chia lấy phần dư
  ** lũy thừa"""
 a = 7
 b =2
